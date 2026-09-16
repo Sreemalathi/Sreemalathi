@@ -4,7 +4,7 @@
 
 ## What Drives Me
 
-I enjoy exploring business questions through data, finding patterns, and turning analysis into clear, practical insights through dashboards and visualizations.
+I enjoy exploring business questions through data, finding patterns and turning analysis into clear, practical insights through dashboards and visualizations.
 
 Currently pursuing a **Data Analytics & AI program at WBS Coding School in Germany**, where I’m building hands-on skills in **SQL, Python, Tableau and AI-assisted data workflows**.
 
